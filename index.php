@@ -11,7 +11,9 @@
     <title>BLOG</title>
   </head>
   <body>
-    <?php include "includes/db.php" ?>
+    <div class="container">
+      <?php include "includes/db.php" ?>
+    </div>
     <?php include "includes/navbar.php" ?>
     <div class="container">
       <h1 class="mt-3">BLOG</h1>
